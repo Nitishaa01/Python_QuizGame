@@ -37,7 +37,3 @@ python quiz_game.py
 ## 🔗 API Source
 
 - [Open Trivia DB](https://opentdb.com/api_config.php)
-
-## 📄 License
-
-This project is licensed under the MIT License.
